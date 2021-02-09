@@ -531,7 +531,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/Documents\/GitHub\/Disco\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":0,
@@ -554,7 +554,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/Documents\/GitHub\/Cuppa\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1279,7 +1279,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/Downloads\/Tilesets\/dark-wood.png",
+         "image":"dark-wood.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -1292,7 +1292,7 @@
         {
          "columns":29,
          "firstgid":833,
-         "image":"..\/..\/Downloads\/Tilesets\/tileset.png",
+         "image":"tileset.png",
          "imageheight":320,
          "imagewidth":928,
          "margin":0,
@@ -1305,7 +1305,7 @@
         {
          "columns":32,
          "firstgid":1123,
-         "image":"..\/..\/Downloads\/Tilesets\/obj_misk_atlas.png",
+         "image":"obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1318,7 +1318,7 @@
         {
          "columns":7,
          "firstgid":2147,
-         "image":"..\/..\/Downloads\/Neuer Ordner (2)-2\/Unbenannt-1.png",
+         "image":"Unbenannt-1.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
