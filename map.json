@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":0.98,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -45,7 +45,7 @@
          "name":"Holzboden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -57,7 +57,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -69,7 +69,7 @@
          "name":"Tanzfl\u00e4che",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
          "name":"Disco-Easteregg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -93,7 +93,7 @@
          "name":"Sand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
          "name":"St\u00fchle",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
          "name":"Tische",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
          "name":"on Table",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -416,38 +416,38 @@
                          "y":0
                         }, 
                         {
-                         "x":57.7673692427791,
+                         "x":37.2050939894283,
                          "y":-1.56128024980489
                         }, 
                         {
-                         "x":56.9867291178766,
+                         "x":36.7023224490306,
                          "y":94.4574551131929
                         }, 
                         {
-                         "x":20.2966432474629,
+                         "x":13.0720600503397,
                          "y":94.4574551131929
                         }, 
                         {
-                         "x":-1.56128024980484,
+                         "x":-1.00554308079536,
                          "y":92.1155347384855
                         }, 
                         {
-                         "x":-0.780640124902419,
+                         "x":-0.50277154039768,
                          "y":84.3091334894614
                         }, 
                         {
-                         "x":13.2708821233412,
+                         "x":8.5471161867606,
                          "y":83.5284933645589
                         }, 
                         {
-                         "x":15.6128024980484,
+                         "x":10.0554308079536,
                          "y":7.80640124902413
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":230.288836846214,
+                 "x":250.851112099565,
                  "y":547.228727556596
                 }, 
                 {
@@ -627,8 +627,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":674.444444444444,
-                 "y":665.555555555556
+                 "x":744.630779848171,
+                 "y":586.052449965494
                 }, 
                 {
                  "height":0,
@@ -857,7 +857,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Collides",
+                 "name":"collides",
                  "type":"bool",
                  "value":true
                 }],
