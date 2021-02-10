@@ -620,30 +620,19 @@
                              "width":0,
                              "x":11.1185961791271,
                              "y":4.90526302020314
-                            }, 
-                            {
-                             "height":0,
-                             "id":2,
-                             "name":"",
-                             "properties":[
-                                    {
-                                     "name":"collides",
-                                     "type":"bool",
-                                     "value":true
-                                    }],
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":0,
-                             "x":3.66259638841835,
-                             "y":9.28729798491795
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
