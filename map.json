@@ -5553,6 +5553,62 @@
                 }, 
                 {
                  "id":52,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":0,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":10.1375435750865,
+                             "y":9.94133305427837
+                            }, 
+                            {
+                             "height":0,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":22.0409818374461,
+                             "y":22.0409818374461
+                            }, 
+                            {
+                             "height":0.0654035069360432,
+                             "id":3,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":21.910174823574,
+                             "y":9.74512253347024
+                            }, 
+                            {
+                             "height":0,
+                             "id":4,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0.0654035069360415,
+                             "x":10.1375435750865,
+                             "y":21.9755783305101
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
                  "properties":[
                         {
                          "name":"collides",
