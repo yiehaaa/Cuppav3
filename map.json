@@ -172,9 +172,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/www.sync-video.com\/r\/EvLTH2RQe"
+                 "value":"cuppa-dance-floor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/chrischel.online\/"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1lX0GKdB-wawn9j69s5y8AK0ONADK1gdgG6WuWSX36YM\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
