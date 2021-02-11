@@ -174,7 +174,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cuppa-dance-floor"
+                 "value":"dance"
                 }],
          "type":"tilelayer",
          "visible":true,
