@@ -154,9 +154,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cuppa-drink-n-play"
+                 "value":"https:\/\/populrr.com\/party\/1150368456"
                 }],
          "type":"tilelayer",
          "visible":true,
