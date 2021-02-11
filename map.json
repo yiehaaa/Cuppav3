@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/w2g.tv\/rooms\/0nyqxpsdxvpqfudzsj?lang=de"
+                 "value":"https:\/\/w2g.tv\/0nyqxpsdxvpqfudzsj"
                 }],
          "type":"tilelayer",
          "visible":true,
