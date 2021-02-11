@@ -154,9 +154,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/w2g.tv\/eccdb9fzzhtgbwnfhe"
+                 "value":"cuppa-drink-n-play"
                 }],
          "type":"tilelayer",
          "visible":true,
