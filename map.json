@@ -172,9 +172,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/cuppa-codenames"
+                 "value":"cuppa-dance-floor"
                 }],
          "type":"tilelayer",
          "visible":true,
