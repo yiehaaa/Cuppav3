@@ -172,9 +172,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"cuppa-dance-floor"
+                 "value":"https:\/\/w2g.tv\/rooms\/cuppadrinknplay-n7hesrm3tb46d9zx5n?lang=de"
                 }],
          "type":"tilelayer",
          "visible":true,
