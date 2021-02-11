@@ -241,7 +241,7 @@
          "height":34,
          "id":40,
          "name":"Copy of spielzimmer",
-         "opacity":0.93,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
